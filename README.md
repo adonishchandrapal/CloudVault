@@ -10,57 +10,65 @@ It allows users to upload, organize, manage, edit, and download files through a 
 
 
 
+\---
+
+
+
 \## 🚀 Features
 
 
 
-\* 📂 File Management
+\### 📂 File Management
 
 
 
-&#x20; \* Upload Files
+\* Upload Files
 
-&#x20; \* Download Files
+\* Download Files
 
-&#x20; \* Delete Files
+\* Delete Files
 
-&#x20; \* Search Files
-
-
-
-\* ✏️ File Editing
+\* Search Files
 
 
 
-&#x20; \* Open Text Files
-
-&#x20; \* Edit File Content
-
-&#x20; \* Save Changes
+\### ✏️ File Editing
 
 
 
-\* 📁 Folder Management
+\* Open Text Files
+
+\* Edit File Content
+
+\* Save Changes
 
 
 
-&#x20; \* Create Folders
-
-&#x20; \* Delete Folders
-
-&#x20; \* Organize Files into Folders
+\### 📁 Folder Management
 
 
 
-\* 📊 Dashboard
+\* Create Folders
+
+\* Delete Folders
+
+\* Organize Files into Folders
 
 
 
-&#x20; \* Total Files
+\### 📊 Dashboard
 
-&#x20; \* Total Folders
 
-&#x20; \* Storage Usage Overview
+
+\* Total Files
+
+\* Total Folders
+
+\* Storage Usage Overview
+
+
+
+\---
 
 
 
@@ -77,6 +85,10 @@ It allows users to upload, organize, manage, edit, and download files through a 
 \* Git
 
 \* GitHub
+
+
+
+\---
 
 
 
@@ -110,6 +122,10 @@ CloudVault/
 
 
 
+\---
+
+
+
 \## ▶️ Run Locally
 
 
@@ -138,6 +154,10 @@ python -m streamlit run app.py
 
 
 
+\---
+
+
+
 \## 🎯 Future Improvements
 
 
@@ -156,11 +176,15 @@ python -m streamlit run app.py
 
 
 
+\---
+
+
+
 \## 👨‍💻 Author
 
 
 
-Adonish Chandrapal
+\*\*Adonish Chandrapal\*\*
 
 
 
