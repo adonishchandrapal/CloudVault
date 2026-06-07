@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+
+https://cloudvault-fh7rkeny344t6baxsfimbc.streamlit.app/
+
 # ☁️ CloudVault
 
 CloudVault is a cloud-inspired file management system built with Python and Streamlit.
